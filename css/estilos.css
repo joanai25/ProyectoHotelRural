@@ -54,6 +54,13 @@ nav ul li {
     padding: 16px 40px;;
 }
 
+nav ul li :hover
+    {
+        color: white;
+        font-weight: bold;
+        text-decoration: underline;
+    }
+
 nav ul li a {
     text-decoration: none;
     color: #fff;
@@ -102,5 +109,7 @@ nav ul li a {
     .menu-icon {
           display: block;
     }
+
+    
 
 }
