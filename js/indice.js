@@ -4,9 +4,9 @@
 
 //Codigo
 
-function cargaTrozoHtml(archivoTXT, id)
+function cargaTrozoHtml(archivo, id)
 {
-    fetch(archivoTXT)
+    fetch(archivo)
         .then((response) => response.text())
         .then((codigo) => {
             document.querySelector(id).innerHTML = codigo;
