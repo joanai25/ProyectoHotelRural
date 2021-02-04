@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -25,23 +25,5 @@
           </div>
         </div>
       </nav>
-=======
-<div class="wrapper">
-         <header>
-            <nav>
-               <div class="menu-icon">
-                  <i class="fa fa-bars fa-2x"></i>
-               </div>
-               <div class="logo">
-                  <a href="index.html"><img src="img/footer-logo.png" style="height:65px;"></a>
-               </div>
-               <div class="menu">
-                  <ul>
-                     <li><a href="iniciasesion.html">Inicia sesión</a></li>
-                     <li><a href="hoteles.html">Hoteles</a></li>
-                     <li><a href="conocenos.html">Conócenos!</a></li>
-                  </ul>
-               </div>
-            </nav>
-         </header>
->>>>>>> e8b09938866348a5cbe315685a6d61ba42e46024
+
+
