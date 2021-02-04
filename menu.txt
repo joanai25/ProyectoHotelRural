@@ -9,9 +9,9 @@
                </div>
                <div class="menu">
                   <ul>
-                     <li><a href="#">Inicia sesión</a></li>
-                     <li><a href="#">Hoteles</a></li>
-                     <li><a href="#">Conócenos!</a></li>
+                     <li><a href="iniciasesion.html">Inicia sesión</a></li>
+                     <li><a href="hoteles.html">Hoteles</a></li>
+                     <li><a href="conocenos.html">Conócenos!</a></li>
                   </ul>
                </div>
             </nav>
