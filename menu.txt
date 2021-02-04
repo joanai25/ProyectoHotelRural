@@ -5,7 +5,7 @@
                   <i class="fa fa-bars fa-2x"></i>
                </div>
                <div class="logo">
-                  <a href="index.html"><img src="img/logo.png" style="height:65px;width:65px;"></a>
+                  <a href="index.html"><img src="img/footer-logo.png" style="height:65px;"></a>
                </div>
                <div class="menu">
                   <ul>
