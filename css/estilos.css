@@ -56,9 +56,10 @@ nav ul li {
 
 nav ul li :hover
     {
-        color: white;
+        color: black;
         font-weight: bold;
         text-decoration: underline;
+        background: white;
     }
 
 nav ul li a {
