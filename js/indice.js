@@ -15,4 +15,4 @@ function cargaTrozoHtml(archivoTXT, id)
 
 
 cargaTrozoHtml("../menu.txt", "#menu");
-cargaTrozoHtml("../body.txt", "#body" );
+

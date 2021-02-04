@@ -1,0 +1,11 @@
+body {
+    font-family: "Helvetica Neue",sans-serif;
+    font-weight: lighter;
+}
+
+.fondo {
+    width: 100%;
+    height: 80vh;
+    background: url("../img/hotel.jpg") no-repeat 50% 50%;
+    background-size: cover;
+}
