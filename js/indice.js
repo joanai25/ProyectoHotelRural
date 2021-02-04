@@ -14,5 +14,5 @@ function cargaTrozoHtml(archivoTXT, id)
 }
 
 
-cargaTrozoHtml("../menu.txt", "#menu");
-cargaTrozoHtml("../footer.txt", "#footer");
+cargaTrozoHtml("../menu.html", "#menu");
+cargaTrozoHtml("../footer.html", "#footer");
