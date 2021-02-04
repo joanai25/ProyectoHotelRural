@@ -5,16 +5,13 @@
                   <i class="fa fa-bars fa-2x"></i>
                </div>
                <div class="logo">
-                  <img src="img/logo.png" style="height:100px;width:100px;">
+                  <a href="index.html"><img src="img/logo.png" style="height:65px;width:65px;"></a>
                </div>
                <div class="menu">
                   <ul>
-                     <li><a href="#">Home</a></li>
-                     <li><a href="#">About</a></li>
-                     <li><a href="#">Blog</a></li>
-                     <li><a href="#">Contact</a></li>
-                     <li><a href="#">Contact</a></li>
-                     <li><a href="#">Contact</a></li>
+                     <li><a href="iniciasesion.html">Inicia sesión</a></li>
+                     <li><a href="hoteles.html">Hoteles</a></li>
+                     <li><a href="conocenos.html">Conócenos!</a></li>
                   </ul>
                </div>
             </nav>
