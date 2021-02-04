@@ -6,6 +6,14 @@ body {
 .fondo {
     width: 100%;
     height: 80vh;
+    
     background: url("../img/hotel.jpg") no-repeat 50% 50%;
     background-size: cover;
+}
+
+.cuadrado{
+    background-color: #0f0f0f40;
+    position: absolute;
+    margin-top: 20%;
+
 }
