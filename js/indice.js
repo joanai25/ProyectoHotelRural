@@ -16,6 +16,7 @@ function cargaTrozoHtml(archivo, id)
 
 
 cargaTrozoHtml("../menu.html", "#menu");
+cargaTrozoHtml("../menu2.html", "#menuAccedido");
 cargaTrozoHtml("../footer.html", "#footer");
 
 // ----------------------------------------------------
