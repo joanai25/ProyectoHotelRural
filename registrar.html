@@ -24,13 +24,13 @@
           </div>
       
           <!-- Login Form -->
-          <form>
-            <input type="text" id="dni" class="fadeIn third" name="login" placeholder="Dni">
-            <input type="text" id="login" class="fadeIn second" name="login" placeholder="Usuario">
-            <input type="text" id="password" class="fadeIn third" name="login" placeholder="Password">
-            <input type="text" id="poblacion" class="fadeIn second" name="login" placeholder="Población">
-            <input type="text" id="correo" class="fadeIn third" name="login" placeholder="Correo electrónico">
-            <input type="submit" class="fadeIn fourth" value="Crear cuenta">
+          <form id="registrar">
+            <input type="text" id="dni" maxlength="9" minlength="9" class="fadeIn third" name="login" placeholder="Dni" required>
+            <input type="text" id="nombre" maxlength="25" class="fadeIn second" name="login" placeholder="Usuario" required>
+            <input type="password" id="password" class="fadeIn second" name="login" placeholder="Password" required>
+            <input type="text" id="poblacion" class="fadeIn second" name="login" placeholder="Población" required>
+            <input type="email" id="email" class="fadeIn second" name="login" placeholder="Correo electrónico" required>
+            <input type="submit" class="fadeIn fourth" name="action" value="Crear cuenta">
           </form>
       
           <!-- Remind Passowrd -->

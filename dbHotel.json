@@ -1,12 +1,46 @@
 {
-    "usuarios":[
-
-    ],
-    "pisos":[
-
-    ],
-    "reservas":[
-        
-    ]
-    
+  "usuarios": [
+    {
+      "dni": "1212",
+      "nombre": "Pepe",
+      "password": "MTIz",
+      "email": "aa@aa.com",
+      "poblacion": "Jajaja",
+      "id": 1
+    },
+    {
+      "dni": "adsasdasd",
+      "nombre": "asdsa",
+      "password": "YXNkYWQ=",
+      "email": "dasd",
+      "poblacion": "asdsadas",
+      "id": 2
+    },
+    {
+      "dni": "222222222",
+      "nombre": "aaaasas",
+      "password": "YXNhc2FzYQ==",
+      "email": "aa@aaa.com",
+      "poblacion": "asas",
+      "id": 3
+    },
+    {
+      "dni": "121212121",
+      "nombre": "Nar",
+      "password": "MTIz",
+      "email": "aa@aa.com",
+      "poblacion": "Aaaa",
+      "id": 4
+    },
+    {
+      "dni": "999999999",
+      "nombre": "Pepe",
+      "password": "MTIz",
+      "email": "aa@aa.com",
+      "poblacion": "Aaaa",
+      "id": 5
+    }
+  ],
+  "pisos": [],
+  "reservas": []
 }
