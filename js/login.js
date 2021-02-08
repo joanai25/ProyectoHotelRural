@@ -2,9 +2,9 @@
 const login_f = (dato) => {
     // Comprobar datos ....
     if (dato[0].dni == document.querySelector("#dni").value && dato[0].password == window.btoa(document.querySelector("#password").value)) { 
-        sessionStorage.setItem('dni', dato[0].id);
+        sessionStorage.setItem('dni', dato[0].id); //dni es el id ahora 
         localStorage.setItem('nombre', dato[0].nombre);
-        window.location='../hoteles.html';
+        window.location='../habitaciones.html';
     }
     else {
         alert("Usuario o contraseña erroneo");
