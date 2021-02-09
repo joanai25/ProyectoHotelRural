@@ -4,7 +4,7 @@ export const muestraActividades = (actividad) => {
     let salida = `
    
     <div class="col-md-3">
-        <div class="card m-4 bg-dark " style="width: 18rem">
+        <div class="card m-4 bg-dark " style="width: 18rem; height: 35rem;">
             <img src="${actividad.img}" class="card-img-top" alt="...">
             <div class="card-body text-white">
                 <h5 class="card-title">${actividad.nombre}</h5>

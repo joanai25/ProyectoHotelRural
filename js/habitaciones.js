@@ -4,7 +4,7 @@ export const muestraHabitaciones = (habitacion) => {
     let salida = `
         
     <div class="col-md-3">
-        <div class="card bg-dark ms-5 mb-5" style="width: 18rem">
+        <div class="card bg-dark ms-5 mb-5" style="width: 18rem; height: 35rem;">
             <img src="${habitacion.img}" class="card-img-top" alt="...">
             <div class="card-body text-white">
             <h5 class="card-title" id="nombre">${habitacion.nombre}</h5>
