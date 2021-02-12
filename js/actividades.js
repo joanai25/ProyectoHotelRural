@@ -14,10 +14,22 @@ export const muestraActividades = (actividad) => {
                 <div class="d-flex flex-row-reverse">
                         <button  class="btn btn-primary mr-auto" name="btnReserva" id="${actividad.id}">Reservar</button>
                 </div>
+
+                <div class="toast mt-3 bg-danger toast${actividad.id}">
+                    <div class="toast-header">
+                        ERROR
+                    </div>
+                    <div class="toast-body">
+                        Inicia sesion primero
+                    </div>
+                </div>
+            
             
             </div>
         </div>  
+        <div style="margin-bottom: 100px;"></div>
     </div>
+    
     
     `;
 

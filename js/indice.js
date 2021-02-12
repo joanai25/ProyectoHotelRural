@@ -125,6 +125,9 @@ if(pagina.pathname == "/actividades.html"){
         dato.usuarioID = sessionStorage.getItem("dni");
         dato.actividadID = e.target.id;
         guardaServicio(dato);
+      }else{
+        $('.toast'+e.target.id).toast('show');
+        
       }
       
       

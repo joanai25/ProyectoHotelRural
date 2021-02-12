@@ -199,6 +199,18 @@
       "usuarioID": "5",
       "actividadID": "8",
       "id": 4
+    },
+    {
+      "usuarioID": "5",
+      "actividadID": "2",
+      "id": 5
+    },
+    {
+      "fechaDesde": "2021-02-17",
+      "fechaHasta": "2021-02-25",
+      "usuarioID": "5",
+      "habitacionID": "4",
+      "id": 6
     }
   ]
 }
